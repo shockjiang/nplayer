@@ -43,3 +43,5 @@ last revisited on Oct 24, 2013
 
 svn up -r 78 get the relase-0.1
 svn co svn://202.112.49.243:8768 nplayer
+
+note that: this project has been ported to NFD
